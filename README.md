@@ -245,9 +245,14 @@ No. This is an APIDot integration repository for calling Seedance 2 through APID
 - APIDot webhooks: https://apidot.ai/docs/webhooks
 - Main APIDot examples repo: https://github.com/APIDotAI/apidot-examples
 
-## Suggested GitHub topics
+## Related APIDot model API repositories
 
-seedance-2, seedance-2-api, apidot, curl, nodejs, webhook, ai-video-api, text-to-video-api
+More video API examples from APIDot:
 
+| Model | Repository |
+| --- | --- |
+| Sora 2 Official | [sora-2-official-api](https://github.com/APIDotAI/sora-2-official-api) |
+| Happy Horse | [happy-horse-api](https://github.com/APIDotAI/happy-horse-api) |
+| Veo 3.1 | [veo-3.1-api](https://github.com/APIDotAI/veo-3.1-api) |
 
 
