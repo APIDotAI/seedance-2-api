@@ -2,7 +2,7 @@
 
 Build with the Seedance 2 API using APIDot: cURL, Node.js, polling, webhooks, pricing, and fal.ai comparison in one production-oriented GitHub repo.
 
-[Get API Key](https://apidot.ai/dashboard/api-key) | [API Docs](https://apidot.ai/docs/seedance-2) | [Model Page](https://apidot.ai/models/seedance-2) | [Main Examples](https://github.com/APIDotAI/apidot-examples)
+[Try on APIDot](https://apidot.ai/models/seedance-2) | [Get API Key](https://apidot.ai/dashboard/api-key) | [API Docs](https://apidot.ai/docs/seedance-2) | [Pricing](https://apidot.ai/pricing) | [Main Examples](https://github.com/APIDotAI/apidot-examples)
 
 ## Why this repo exists
 
